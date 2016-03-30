@@ -8,4 +8,5 @@ Hardware for each wall thermostat:
 -temperature sensor 
 -OLED display (128px i2c) 
 -SSR relay 
+-Two push button 
 -Custom PCB to link everything including LED for display 
