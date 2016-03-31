@@ -10,3 +10,7 @@ Hardware for each wall thermostat:
 - SSR relay 
 - Two push button 
 - Custom PCB to link everything including LED for display 
+
+Currently using the ElecFreaks OLED i2c
+
+http://www.elecfreaks.com/estore/iic-oled.html
